@@ -33,8 +33,8 @@ La aplicación está enfocada en gestionar el registro y control de becas otorga
 
 Aquí puedes añadir capturas de pantalla de la interfaz de la aplicación para mostrar su diseño y funcionalidades:
 
-![Login](capturas_de_pantalla/login.jpg)
-![Pantalla administrador](capturas_de_pantalla/pantalla_usuarios.jpg)
-![Pantalla usuario](capturas_de_pantalla/pantalla_becarios.jpg)
-![Formulario para agregar becarios](capturas_de_pantalla/formulario_agregar_becario.jpg)
-![Pantalla pantalla para agregar usuarios](capturas_de_pantalla/formulario_agregar_usuario.jpg)
+![Login](capuras_de_pantalla/login.jpg)
+![Pantalla administrador](capuras_de_pantalla/pantalla_usuarios.jpg)
+![Pantalla usuario](capuras_de_pantalla/pantalla_becarios.jpg)
+![Formulario para agregar becarios](capuras_de_pantalla/formulario_agregar_becario.jpg)
+![Pantalla pantalla para agregar usuarios](capuras_de_pantalla/formulario_agregar_usuario.jpg)
