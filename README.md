@@ -31,18 +31,18 @@ La aplicación está enfocada en gestionar el registro y control de becas otorga
 
 ## Capturas de Pantalla
 
-<img src="capuras_de_pantalla/login.jpg" alt="Login" style="max-width: 200px;"/>
+<img src="capuras_de_pantalla/login.jpg" alt="Login" style="width: 200px;"/>
 <p><strong>Login</strong></p>
 
-<img src="capuras_de_pantalla/pantalla_usuarios.jpg" alt="Pantalla administrador" style="max-width: 200px;"/>
+<img src="capuras_de_pantalla/pantalla_usuarios.jpg" alt="Pantalla administrador" style="width: 200px;"/>
 <p><strong>Pantalla administrador</strong></p>
 
-<img src="capuras_de_pantalla/pantalla_becarios.jpg" alt="Pantalla usuario" style="max-width: 200px;"/>
+<img src="capuras_de_pantalla/pantalla_becarios.jpg" alt="Pantalla usuario" style="width: 200px;"/>
 <p><strong>Pantalla usuario</strong></p>
 
-<img src="capuras_de_pantalla/formulario_agregar_becario.jpg" alt="Formulario para agregar becarios" style="max-width: 200px;"/>
+<img src="capuras_de_pantalla/formulario_agregar_becario.jpg" alt="Formulario para agregar becarios" style="width: 200px;"/>
 <p><strong>Formulario para agregar becarios</strong></p>
 
-<img src="capuras_de_pantalla/formulario_agregar_usuario.jpg" alt="Pantalla pantalla para agregar usuarios" style="max-width: 200px;"/>
+<img src="capuras_de_pantalla/formulario_agregar_usuario.jpg" alt="Pantalla pantalla para agregar usuarios" style="width: 200px;"/>
 <p><strong>Pantalla pantalla para agregar usuarios</strong></p>
 
