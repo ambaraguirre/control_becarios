@@ -1,5 +1,5 @@
 # Gestión de Becarios
-<span style="color= red;">EL ACCESO DEL LOGIN PARA PODER COMENZAR A AGREGAR USUARIOS ES administrador@becas.com password=administrador</span>
+<span style="color:red;">EL ACCESO DEL LOGIN PARA PODER COMENZAR A AGREGAR USUARIOS ES administrador@becas.com password=administrador</span>
 Este repositorio proporciona una guía para el desarrollo de una aplicación nativa en Kotlin que facilita la gestión del registro de estudiantes becados. 
 
 ## Objetivos
